@@ -3,7 +3,10 @@
 **Task 1**
 
 **Movie Genre Classification**
-Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support VectorMachines. Link of dataset :  https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+Create a machine learning model that can predict the genre of a movie based on its plot
+summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as
+Naive Bayes, Logistic Regression, or Support VectorMachines.
+Link of dataset :  https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 **Task 2**
 
