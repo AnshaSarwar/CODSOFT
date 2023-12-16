@@ -1,4 +1,4 @@
-# CODSOFT Internship Tasks
+# Machine Learning Tasks
 
 **Task 1**
 
